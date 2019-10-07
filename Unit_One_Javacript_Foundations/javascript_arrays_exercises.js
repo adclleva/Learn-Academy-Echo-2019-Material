@@ -97,4 +97,3 @@ console.log(magicBallAnswer[randomNum])
 // As a user I can enter a question and get a random answer to my question.
 // Create an HTML page linked to the JavaScript file - you will need to research onClick events, document.getElementById() and innerHTML.
 // More information about linking HTML to JavaScript here
-//
